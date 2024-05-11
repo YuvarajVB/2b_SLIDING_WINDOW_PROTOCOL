@@ -8,8 +8,8 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM:
-Developed by: Anbu Vinotha.S
-Register Number: 212223230015
+Developed by: YUVARAJ V
+Register Number: 212223230252
 
 ## CLIENT:
 ```
